@@ -1,1 +1,1 @@
-# This is a list of basic projects that helped me understand how Spring works.
+# This is a list of simple projects that assisted me in understanding how Spring works.
